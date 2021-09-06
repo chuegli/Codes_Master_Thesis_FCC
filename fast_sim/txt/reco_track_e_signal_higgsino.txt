@@ -1,0 +1,13 @@
+// Signal for fast simulation 
+// The efficiency for chargino track reconstruction is saved here 
+// Assumed: higgsino lifetime = 0.023 ns  and chargino is reconstructed if it decays in a radius >= 150 mm
+// mass, efficiency for C1N1, efficiency for C1C1, betagamma for C1N1, betagamma for C1C1 
+700, 5.12378e-05, 0.000106171;
+800, 4.75185e-05, 8.3205e-05;
+900, 3.80159e-05, 7.55121e-05;
+1000, 3.93306e-05, 5.93096e-05;
+1100, 2.93651e-05, 4.83845e-05;
+1200, 2.31666e-05, 5.21556e-05;
+1300, 2.31608e-05, 4.67005e-05;
+1400, 2.0775e-05, 4.39898e-05;
+1500, 1.9468e-05, 3.59249e-05;

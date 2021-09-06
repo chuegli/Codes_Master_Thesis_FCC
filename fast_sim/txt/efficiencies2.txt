@@ -1,0 +1,3 @@
+// cut 1 = leading jet pt > 1 TeV 
+// cut 2 = MET > 1 TeV 
+// process, range, efficiency cut 1, efficiency cut 2, efficiency cut 1 && cut2 

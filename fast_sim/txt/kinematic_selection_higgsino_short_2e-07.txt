@@ -1,0 +1,4 @@
+// higgsino/wino, mass, C1C1/C1N1, leading jet pt cut, met cut 
+Higgsino, 700, 10000, 7600, 61.3741;
+Higgsino, 1000, 9400, 9300, 91.8663;
+Higgsino, 1500, 1000, 9300, 9.07586;
